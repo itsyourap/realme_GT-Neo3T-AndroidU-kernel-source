@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/misc/oem_qmi_client.c
+../../../realme_GT-Neo3T-AndroidU-vendor-source/vendor/oplus/kernel/misc/oem_qmi_client.c

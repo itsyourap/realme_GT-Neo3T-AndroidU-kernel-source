@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/misc/sim_detect.c
+../../../realme_GT-Neo3T-AndroidU-vendor-source/vendor/oplus/kernel/misc/sim_detect.c

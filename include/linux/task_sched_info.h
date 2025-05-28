@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/oplus_performance/task_cpustats/task_sched_info.h
+../../../realme_GT-Neo3T-AndroidU-vendor-source/vendor/oplus/kernel/oplus_performance/task_cpustats/task_sched_info.h
